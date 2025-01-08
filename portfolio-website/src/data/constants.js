@@ -5,7 +5,7 @@ export const Bio = {
     "Aa passionate computer science professional, I bring a proven ability to develop innovative software solutions and drive impactful projects. With a Bachelor’s in Computer Engineering and a Master’s in progress, I have a solid technical foundation in programming languages like Python, Java, and C++, along with hands-on experience in web development and emerging technologies such as ML and AI.",
   github: "https://github.com/vaishnavbhujbal",
   resume:
-    "https://drive.google.com/file/d/1e9z8tLGZ3OfVKk_jgDQgw4d_K8swgopP/view?usp=drive_link",
+    "https://drive.google.com/file/d/1q_GHKX3S5Y8agTz7oqxl3ABBq7Ix0zhY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vaishnav-bhujbal/",
   insta: "https://www.instagram.com/vaishnav_8993/",
 };

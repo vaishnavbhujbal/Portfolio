@@ -1,8 +1,0 @@
-[build]
-  publish = "build"         # Directory where static files are generated
-  command = "npm run build" # Build command for the app
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
