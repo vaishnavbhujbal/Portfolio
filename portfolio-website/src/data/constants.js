@@ -139,7 +139,7 @@ export const experiences = [
   {
     id: 0,
     role: "UI/UX Developer",
-    company: "Geminus Pvt Ltd",
+    company: "Geminus Tech Pvt. Ltd.",
     date: "April 2023 - September 2023",
     desc: "Developed an e-commerce site using React.js, increasing user engagement by 30% through improved UX/UI on devices.	Implemented features like user authentication, product catalog, cart / purchase functionality, reducing page load by 25%.",
     skills: [
